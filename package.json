@@ -1,0 +1,17 @@
+{
+  "name": "rma-backend-new",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0",
+    "luxon": "^3.5.0",
+    "resend": "^4.0.0"
+  },
+  "devDependencies": {
+    "vercel": "^39.0.0"
+  }
+}
